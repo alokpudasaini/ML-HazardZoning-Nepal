@@ -23,8 +23,3 @@ The goal is to produce a high-resolution landslide risk map for academic and pol
 5. **Evaluation** – Precision, recall, F1-score, ROC-AUC.
 6. **Risk Mapping** – Generate a probability raster of landslide occurrence.
 
-## How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<yourusername>/landslide-risk-prediction-nepal.git
-   cd landslide-risk-prediction-nepal
