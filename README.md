@@ -9,7 +9,7 @@ The goal is to produce a high-resolution landslide risk map for academic and pol
 - **DSM**: [OpenTopography](https://portal.opentopography.org/)
 - **Elevation**: [HDX Central Nepal DEM](https://data.humdata.org/)
 - **Rainfall**: [CHIRPS-2.0](https://data.chc.ucsb.edu/products/CHIRPS-2.0/)
-- **Soil**: ISRIC World Soil Information
+- **Soil**: Dijkshoorn JA and Huting JRM 2009. Soil and terrain database for Nepal. Report 2009/01 (available through: http://www.isric.org), ISRIC – World Soil Information, Wageningen (29 p. with data set)
 - **Vegetation**: [MODIS MOD13Q1.061](https://lpdaac.usgs.gov/)
 - **Landslide Inventory**: [Nepal Landslides Collection](https://umap.openstreetmap.fr/)
 
