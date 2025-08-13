@@ -1,0 +1,23 @@
+Copyright (c) 2025 Alok Pudasaini
+
+This repository contains the project "Landslide Risk Prediction in Nepal using Satellite & Open GIS Data," including code, data, notebooks, and documentation.
+
+License terms:
+
+1. **Code (Python scripts, notebooks, analysis scripts)**  
+   - Licensed under the **MIT License**.  
+   - You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code.  
+   - The code is provided "as is," without warranty of any kind.
+
+2. **Data and Documentation (processed data, figures, reports, README)**  
+   - Licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+   - You are free to share and adapt the data and documentation for research, educational, or non-commercial purposes.  
+   - You must give appropriate credit to the author, provide a link to this license, and indicate if changes were made.
+
+Disclaimer:  
+The author provides this project "as is" and is not responsible for any misuse of the data, code, or results. Please use responsibly and cite the project if used in any research or publication.
+
+---
+
+**Suggested citation:**  
+Pudasaini, A. (2025). Landslide Risk Prediction in Nepal using Satellite & Open GIS Data. GitHub repository. https://github.com/alokpudasaini/ML-Landslide-Nepal
