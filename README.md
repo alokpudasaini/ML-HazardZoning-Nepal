@@ -23,3 +23,10 @@ The goal is to produce a high-resolution landslide risk map for academic and pol
 5. **Evaluation** – Precision, recall, F1-score, ROC-AUC.
 6. **Risk Mapping** – Generate a probability raster of landslide occurrence.
 
+## License
+This project is licensed for research and educational use only.  
+If you use this project in your research or publications, please cite:
+
+Pudasaini, A. (2025). Landslide Risk Prediction in Nepal using Satellite & Open GIS Data. GitHub repository. https://github.com/alokpudasaini/ML-Landslide-Nepal
+
+
