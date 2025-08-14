@@ -10,7 +10,6 @@ Using environmental factors that contribute to hazards like steep slopes, heavy 
 - **Rainfall**: [CHIRPS-2.0](https://data.chc.ucsb.edu/products/CHIRPS-2.0/)
 - **Soiltype**: Dijkshoorn JA and Huting JRM 2009. Soil and terrain database for Nepal. Report 2009/01 (available through: http://www.isric.org), ISRIC – World Soil Information, Wageningen (29 p. with data set)
 - **Vegetation**: [MODIS MOD13Q1.061](https://lpdaac.usgs.gov/)
-- **Landslide Inventory**: [Nepal Landslides Collection](https://umap.openstreetmap.fr/)
 
 *(See `/data/README.md` for details on licensing and preprocessing.)*
 
@@ -18,6 +17,6 @@ Using environmental factors that contribute to hazards like steep slopes, heavy 
 This project is licensed for research and educational use only.  
 If you use this project in your research or publications, please cite:
 
-Pudasaini, A. (2025). Landslide Risk Prediction in Nepal using Satellite & Open GIS Data. GitHub repository. https://github.com/alokpudasaini/ML-Landslide-Nepal
+Pudasaini, A. (2025). Hazard Zoning in Nepal Using Unsupervised Clustering of Geospatial Data. GitHub repository. https://github.com/alokpudasaini/ML-HazardZoning-Nepal
 
 
