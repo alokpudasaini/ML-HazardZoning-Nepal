@@ -1,9 +1,8 @@
-# Landslide Risk Prediction in Nepal using Satellite & Open GIS Data
+# Hazard Zoning in Nepal Using Unsupervised Clustering of Geospatial Data
 
 ## Overview
-This project uses publicly available geospatial datasets and machine learning to identify landslide-prone areas in Nepal.  
-Features include elevation, slope, rainfall, soil type, and vegetation indices.  
-The goal is to produce a high-resolution landslide risk map for academic and policy use.
+To assess relative hazard-prone areas in a region of Nepal using geospatial datasets (Slope, Soil Type, Vegetation, Rainfall) and unsupervised machine learning methods.
+Using environmental factors that contribute to hazards like steep slopes, heavy rainfall, low vegetation, and weak soil. Three clustering algorithms (K-Means, DBSCAN, and Hierarchical) are applied to group pixels with similar characteristics. Resulting clusters were interpreted as low, medium, and high hazard zones.
 
 ## Data Sources
 - **DSM**: [OpenTopography](https://portal.opentopography.org/)
@@ -14,14 +13,6 @@ The goal is to produce a high-resolution landslide risk map for academic and pol
 - **Landslide Inventory**: [Nepal Landslides Collection](https://umap.openstreetmap.fr/)
 
 *(See `/data/README.md` for details on licensing and preprocessing.)*
-
-## Methods
-1. **Data Preparation** – Align all datasets to a 10 m grid (slope raster as reference).
-2. **Label Creation** – Rasterize historical landslides (points & polygons).
-3. **Feature Stacking** – Combine slope, elevation, rainfall, soil, and NDVI.
-4. **Model Training** – Random Forest / XGBoost classification.
-5. **Evaluation** – Precision, recall, F1-score, ROC-AUC.
-6. **Risk Mapping** – Generate a probability raster of landslide occurrence.
 
 ## License
 This project is licensed for research and educational use only.  
