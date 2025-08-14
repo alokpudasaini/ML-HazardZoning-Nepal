@@ -1,6 +1,6 @@
 Copyright (c) 2025 Alok Pudasaini
 
-This repository contains the project "Landslide Risk Prediction in Nepal using Satellite & Open GIS Data," including code, data, notebooks, and documentation.
+This repository contains the project "Hazard Zoning in Nepal Using Unsupervised Clustering of Geospatial Data," including code, data, report, and results.
 
 License terms:
 
@@ -20,4 +20,4 @@ The author provides this project "as is" and is not responsible for any misuse o
 ---
 
 **Suggested citation:**  
-Pudasaini, A. (2025). Landslide Risk Prediction in Nepal using Satellite & Open GIS Data. GitHub repository. https://github.com/alokpudasaini/ML-Landslide-Nepal
+Pudasaini, A. (2025). Hazard Zoning in Nepal Using Unsupervised Clustering of Geospatial Data. GitHub repository. https://github.com/alokpudasaini/ML-HazardZoning-Nepal
